@@ -65,7 +65,7 @@ A modern and responsive admin dashboard for managing an e-commerce platform. Bui
 ## 💾 Installation Instructions
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-admin-dashboard.git
+git clone https://github.com/abuzarkhanse/ecommerce-admin-dashboard-vue.git
 cd ecommerce-admin-dashboard
 npm install
 npm run serve
